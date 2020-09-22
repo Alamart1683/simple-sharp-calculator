@@ -1,0 +1,10 @@
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\bin\Debug\Лабораторная работа 3.exe.config
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\bin\Debug\Лабораторная работа 3.exe
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\bin\Debug\Лабораторная работа 3.pdb
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная работа 3.csprojResolveAssemblyReference.cache
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная_работа_3.Form1.resources
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная_работа_3.Properties.Resources.resources
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная работа 3.csproj.GenerateResource.Cache
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная работа 3.csproj.CoreCompileInputs.cache
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная работа 3.exe
+C:\Users\ForEU4\Documents\Visual Studio 2017\Projects\Лабораторная работа 3\Лабораторная работа 3\obj\Debug\Лабораторная работа 3.pdb
